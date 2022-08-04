@@ -1,0 +1,356 @@
+{
+  "students": [
+    {
+      "firstName": "Zxczxc",
+      "lastName": "Zxczxczxc",
+      "birth": "01.09.1980",
+      "phone": "+123456789123",
+      "instrument": "piano",
+      "lessons": 12,
+      "timetable": [
+        {
+          "weekDay": "Tue",
+          "time": "14:00"
+        },
+        {
+          "weekDay": "Th",
+          "time": "14:00"
+        },
+        {
+          "weekDay": "Sat",
+          "time": "15:00"
+        }
+      ],
+      "perWeek": 3,
+      "daytable": [
+        "Tue Aug 02 2022",
+        "Thu Aug 04 2022",
+        "Sat Aug 06 2022",
+        "Tue Aug 09 2022",
+        "Thu Aug 11 2022",
+        "Sat Aug 13 2022",
+        "Tue Aug 16 2022",
+        "Thu Aug 18 2022",
+        "Sat Aug 20 2022",
+        "Tue Aug 23 2022",
+        "Thu Aug 25 2022",
+        "Sat Aug 27 2022"
+      ],
+      "id": 3,
+      "patched": "patched"
+    },
+    {
+      "firstName": "Lololo",
+      "lastName": "Lolololo",
+      "birth": "02.08.2032",
+      "phone": "+789898989898",
+      "instrument": "piano",
+      "lessons": 12,
+      "timetable": [
+        {
+          "weekDay": "Tue",
+          "time": "16:00"
+        },
+        {
+          "weekDay": "Th",
+          "time": "12:00"
+        },
+        {
+          "weekDay": "Sat",
+          "time": "19:00"
+        }
+      ],
+      "perWeek": 3,
+      "daytable": [
+        "Tue Aug 02 2022",
+        "Thu Aug 04 2022",
+        "Sat Aug 06 2022",
+        "Tue Aug 09 2022",
+        "Thu Aug 11 2022",
+        "Sat Aug 13 2022",
+        "Tue Aug 16 2022",
+        "Thu Aug 18 2022",
+        "Sat Aug 20 2022",
+        "Tue Aug 23 2022",
+        "Thu Aug 25 2022",
+        "Sat Aug 27 2022"
+      ],
+      "id": 4
+    },
+    {
+      "firstName": "Vasya",
+      "lastName": "Pupkin",
+      "birth": "03.05.2015",
+      "phone": "+632154657894",
+      "instrument": "piano",
+      "lessons": 12,
+      "timetable": [
+        {
+          "weekDay": "Tue",
+          "time": "13:00"
+        },
+        {
+          "weekDay": "Th",
+          "time": "15:00"
+        },
+        {
+          "weekDay": "Sat",
+          "time": "18:00"
+        }
+      ],
+      "perWeek": 3,
+      "daytable": [
+        "Tue Aug 02 2022",
+        "Thu Aug 04 2022",
+        "Sat Aug 06 2022",
+        "Tue Aug 09 2022",
+        "Thu Aug 11 2022",
+        "Sat Aug 13 2022",
+        "Tue Aug 16 2022",
+        "Thu Aug 18 2022",
+        "Sat Aug 20 2022",
+        "Tue Aug 23 2022",
+        "Thu Aug 25 2022",
+        "Sat Aug 27 2022"
+      ],
+      "id": 5
+    },
+    {
+      "firstName": "Durak",
+      "lastName": "Duren",
+      "birth": "01.09.1675",
+      "phone": "+987456321456",
+      "instrument": "piano",
+      "lessons": 8,
+      "timetable": [
+        {
+          "weekDay": "Mon",
+          "time": "09:00"
+        },
+        {
+          "weekDay": "Wed",
+          "time": "09:00"
+        }
+      ],
+      "perWeek": 2,
+      "daytable": [
+        "Mon Aug 08 2022",
+        "Wed Aug 10 2022",
+        "Mon Aug 15 2022",
+        "Wed Aug 17 2022",
+        "Mon Aug 22 2022",
+        "Wed Aug 24 2022",
+        "Mon Aug 29 2022",
+        "Wed Aug 31 2022"
+      ],
+      "id": 6
+    },
+    {
+      "firstName": "Dolban",
+      "lastName": "Dolban",
+      "birth": "27.03.2000",
+      "phone": "+321456987456",
+      "instrument": "piano",
+      "lessons": 4,
+      "timetable": [
+        {
+          "weekDay": "Wed",
+          "time": "14:00"
+        },
+        {
+          "weekDay": "Fr",
+          "time": "15:00"
+        }
+      ],
+      "perWeek": 2,
+      "daytable": [
+        "Wed Aug 03 2022",
+        "Fri Aug 05 2022",
+        "Wed Aug 10 2022",
+        "Fri Aug 12 2022"
+      ],
+      "id": 8
+    },
+    {
+      "firstName": "Perdak",
+      "lastName": "Perdak",
+      "birth": "02.02.1565",
+      "phone": "+65412365478",
+      "instrument": "guitar",
+      "lessons": 12,
+      "timetable": [
+        {
+          "weekDay": "Mon",
+          "time": "09:00"
+        },
+        {
+          "weekDay": "Wed",
+          "time": "09:00"
+        }
+      ],
+      "perWeek": 2,
+      "daytable": [
+        "Mon Aug 01 2022",
+        "Wed Aug 03 2022",
+        "Mon Aug 08 2022",
+        "Wed Aug 10 2022",
+        "Mon Aug 15 2022",
+        "Wed Aug 17 2022",
+        "Mon Aug 22 2022",
+        "Wed Aug 24 2022",
+        "Mon Aug 29 2022",
+        "Wed Aug 31 2022",
+        "Mon Sep 05 2022",
+        "Wed Sep 07 2022"
+      ],
+      "id": 9
+    },
+    {
+      "firstName": "Pipis",
+      "lastName": "Pipispis",
+      "birth": "15.03.1654",
+      "phone": "+321456987456",
+      "instrument": "piano",
+      "lessons": 1,
+      "timetable": [
+        {
+          "weekDay": "Wed",
+          "time": "12:00"
+        }
+      ],
+      "perWeek": 1,
+      "daytable": [
+        "Wed Aug 10 2022"
+      ],
+      "id": 10
+    },
+    {
+      "firstName": "Sososos",
+      "lastName": "sososos",
+      "birth": "12.12.1212",
+      "phone": "+9786132468",
+      "instrument": "piano",
+      "lessons": 8,
+      "timetable": [
+        {
+          "weekDay": "Tue",
+          "time": "10:00"
+        },
+        {
+          "weekDay": "Wed",
+          "time": "10:00"
+        }
+      ],
+      "perWeek": 2,
+      "daytable": [
+        "Tue Nov 01 2022",
+        "Wed Nov 02 2022",
+        "Tue Nov 08 2022",
+        "Wed Nov 09 2022",
+        "Tue Nov 15 2022",
+        "Wed Nov 16 2022",
+        "Tue Nov 22 2022",
+        "Wed Nov 23 2022"
+      ],
+      "id": 13
+    },
+    {
+      "firstName": "October",
+      "lastName": "Octoberfccyhbjn",
+      "birth": "02.02.2022",
+      "phone": "+789546132465",
+      "instrument": "drums",
+      "lessons": 4,
+      "timetable": [
+        {
+          "weekDay": "Sun",
+          "time": "09:00"
+        },
+        {
+          "weekDay": "Mon",
+          "time": "09:00"
+        },
+        {
+          "weekDay": "Tue",
+          "time": "09:00"
+        }
+      ],
+      "perWeek": 3,
+      "daytable": [
+        "Sun Oct 30 2022",
+        "Mon Oct 31 2022",
+        "Tue Nov 01 2022",
+        "Sun Nov 06 2022"
+      ],
+      "id": 14
+    },
+    {
+      "firstName": "Ia",
+      "lastName": "Iaiaia",
+      "birth": "02.02.2022",
+      "phone": "+213465798465",
+      "instrument": "guitar",
+      "lessons": 8,
+      "timetable": [
+        {
+          "weekDay": "Wed",
+          "time": "12:00"
+        },
+        {
+          "weekDay": "Fr",
+          "time": "13:00"
+        }
+      ],
+      "perWeek": 2,
+      "daytable": [
+        "Wed Aug 03 2022",
+        "Fri Aug 05 2022",
+        "Wed Aug 10 2022",
+        "Fri Aug 12 2022",
+        "Wed Aug 17 2022",
+        "Fri Aug 19 2022",
+        "Wed Aug 24 2022",
+        "Fri Aug 26 2022"
+      ],
+      "id": 15
+    },
+    {
+      "firstName": "Posos",
+      "lastName": "Zasos",
+      "birth": "12.02.2015",
+      "phone": "+213546879546",
+      "instrument": "piano",
+      "lessons": 12,
+      "timetable": [
+        {
+          "weekDay": "Wed",
+          "time": "19:00"
+        },
+        {
+          "weekDay": "Th",
+          "time": "19:00"
+        },
+        {
+          "weekDay": "Fr",
+          "time": "14:00"
+        }
+      ],
+      "perWeek": 3,
+      "daytable": [
+        "Thu Aug 04 2022",
+        "Fri Aug 05 2022",
+        "Wed Aug 10 2022",
+        "Thu Aug 11 2022",
+        "Fri Aug 12 2022",
+        "Wed Aug 17 2022",
+        "Thu Aug 18 2022",
+        "Fri Aug 19 2022",
+        "Wed Aug 24 2022",
+        "Thu Aug 25 2022",
+        "Fri Aug 26 2022",
+        "Wed Aug 31 2022"
+      ],
+      "id": 16
+    }
+  ]
+}

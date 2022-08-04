@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { FC, useEffect } from "react";
+import { Routes, Route, useLocation, Location } from "react-router-dom";
+import Layout from "./components/Layout";
+import AddingPage from "./components/AddingPage";
+import Calendar from "./components/Calendar";
+import List from "./components/List";
+import StudentPage from "./components/StudentPage";
 
-function App() {
+const App: FC = () => {
+  const location: Location = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path='/' element={<Layout />}>
+        <Route index element={<Calendar />} />
+        <Route path='add' element={<AddingPage />} />
+        <Route path='list' element={<List />} />
+        <Route path='/:id' element={<StudentPage />} />
+      </Route>
+    </Routes>
   );
-}
+};
 
 export default App;
